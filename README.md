@@ -23,3 +23,16 @@ to enhance the user interaction, ease of use and improved end user message indic
 ## Design
 The application has a landing page that users can easily log on to the app with, using there name also having the option to select a room with small icons of the different technologies associated with the room. A message to all users is located in bold on the landing page to let users know to be respectful to others. The colors used are a range of blue tones. The chat room has an algorithm that randomly selects tones within the selected blue theme for sender and receiver messages.
 
+### Techstack
+<ul>
+    <li>Html5</li>
+    <li>Css3</li>
+    <li>Javascript</li>
+    <li>React.js</li>
+    <li>Node.JS</li>
+    <li>Express.JS</li>
+    <li>NPM</li>
+    <li>Heroku</li>
+    <li>Git</li>
+</ul>
+
